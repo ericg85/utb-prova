@@ -27,8 +27,10 @@ base64 -d ots/UTB-2026-10-16-01.sha256.ots.b64 > UTB-2026-10-16-01.sha256.ots
 ots verify -f ots/UTB-2026-10-16-01.sha256 UTB-2026-10-16-01.sha256.ots
 ```
 
-O carimbo `*.sha256.ots` é feito sobre o arquivo `ots/<codigo>.sha256`, que contém só o hash (64 caracteres, sem quebra de linha). Para `UTB-2026-10-15-01` o carimbo `UTB-2026-10-15-01.md.ots.b64` foi feito direto sobre o arquivo da decisão (`ots verify -f reveal/UTB-2026-10-15-01.md UTB-2026-10-15-01.md.ots`).
+O carimbo `*.sha256.ots` é feito sobre o arquivo `ots/<codigo>.sha256`, que contém o hash seguido de uma quebra de linha (65 bytes, igual à saída de `echo <hash>`). Para `UTB-2026-10-15-01` o carimbo `UTB-2026-10-15-01.md.ots.b64` foi feito direto sobre o arquivo da decisão (`ots verify -f reveal/UTB-2026-10-15-01.md UTB-2026-10-15-01.md.ots`).
 
-Se os hashes forem iguais, o arquivo não mudou nenhum caractere desde a publicação. Também é possível enviar o arquivo e o `.ots` em https://opentimestamps.org para conferir sem instalar nada.
+Sem um nó Bitcoin local, use `ots --no-bitcoin verify ...` para conferir o caminho até o bloco, ou envie o arquivo e o `.ots` em https://opentimestamps.org.
+
+Se os hashes forem iguais, o arquivo não mudou nenhum caractere desde a publicação.
 
 Este repositório não contém posições, valores nem dados de corretora.
