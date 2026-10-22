@@ -1,0 +1,185 @@
+{
+ "versao": 1,
+ "gerado_em": "2026-10-22",
+ "atraso_pregoes": 2,
+ "inclui_compras": false,
+ "regra": "Decisoes do radar sem entrada (NAO_COMPRAR e ESPERAR), publicadas depois do atraso. Compras aparecem pela prova publica. Revisoes de carteira ficam de fora.",
+ "itens": [
+  {
+   "data": "2026-10-20",
+   "publicado_em": "2026-10-22",
+   "mercado": "EUA",
+   "ticker": "MTCH",
+   "veredito": "ESPERAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 4.0,
+    "noticias": 4.0,
+    "fundamentos": 4.0,
+    "final": 4.0
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-10-16",
+   "publicado_em": "2026-10-20",
+   "mercado": "EUA",
+   "ticker": "UNP",
+   "veredito": "ESPERAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 2.0,
+    "noticias": 4.0,
+    "fundamentos": 4.0,
+    "final": 3.0
+   },
+   "risco": "ok",
+   "regimento": "v1.1"
+  },
+  {
+   "data": "2026-10-16",
+   "publicado_em": "2026-10-20",
+   "mercado": "EUA",
+   "ticker": "UNH",
+   "veredito": "ESPERAR",
+   "confianca": 3,
+   "notas": {
+    "tecnico": 4.0,
+    "noticias": 4.0,
+    "fundamentos": 3.0,
+    "final": 3.8
+   },
+   "risco": "ok",
+   "regimento": "v1.1"
+  },
+  {
+   "data": "2026-10-16",
+   "publicado_em": "2026-10-20",
+   "mercado": "EUA",
+   "ticker": "SHO",
+   "veredito": "ESPERAR",
+   "confianca": 3,
+   "notas": {
+    "tecnico": 3.0,
+    "noticias": 2.0,
+    "fundamentos": 2.0,
+    "final": 3.0
+   },
+   "risco": "ok",
+   "regimento": "v1.1"
+  },
+  {
+   "data": "2026-10-16",
+   "publicado_em": "2026-10-20",
+   "mercado": "EUA",
+   "ticker": "M",
+   "veredito": "ESPERAR",
+   "confianca": 3,
+   "notas": {
+    "tecnico": 4.0,
+    "noticias": 2.0,
+    "fundamentos": 3.0,
+    "final": 3.2
+   },
+   "risco": "ok",
+   "regimento": "v1.1"
+  },
+  {
+   "data": "2026-10-16",
+   "publicado_em": "2026-10-20",
+   "mercado": "EUA",
+   "ticker": "KVUE",
+   "veredito": "ESPERAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 3.0,
+    "noticias": 3.0,
+    "fundamentos": 3.0,
+    "final": 3.0
+   },
+   "risco": "ok",
+   "regimento": "v1.1"
+  },
+  {
+   "data": "2026-10-16",
+   "publicado_em": "2026-10-20",
+   "mercado": "EUA",
+   "ticker": "CVS",
+   "veredito": "ESPERAR",
+   "confianca": 3,
+   "notas": {
+    "tecnico": 4.0,
+    "noticias": 4.0,
+    "fundamentos": 2.0,
+    "final": 3.6
+   },
+   "risco": "ok",
+   "regimento": "v1.1"
+  },
+  {
+   "data": "2026-10-16",
+   "publicado_em": "2026-10-20",
+   "mercado": "EUA",
+   "ticker": "AMGN",
+   "veredito": "ESPERAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 3.0,
+    "noticias": 4.0,
+    "fundamentos": 4.0,
+    "final": 3.0
+   },
+   "risco": "ok",
+   "regimento": "v1.1"
+  },
+  {
+   "data": "2026-10-15",
+   "publicado_em": "2026-10-19",
+   "mercado": "B3",
+   "ticker": "TGMA3",
+   "veredito": "NAO_COMPRAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 1.0,
+    "noticias": 2.0,
+    "fundamentos": 4.0,
+    "final": 1.9
+   },
+   "risco": "ok",
+   "regimento": "v1.0"
+  },
+  {
+   "data": "2026-10-14",
+   "publicado_em": "2026-10-16",
+   "mercado": "EUA",
+   "ticker": "ELV",
+   "veredito": "NAO_COMPRAR",
+   "confianca": 3,
+   "notas": {
+    "tecnico": null,
+    "noticias": null,
+    "fundamentos": null,
+    "final": null
+   },
+   "risco": "ok",
+   "regimento": null
+  },
+  {
+   "data": "2026-10-14",
+   "publicado_em": "2026-10-16",
+   "mercado": "B3",
+   "ticker": "CBAV3",
+   "veredito": "NAO_COMPRAR",
+   "confianca": 3,
+   "notas": {
+    "tecnico": null,
+    "noticias": null,
+    "fundamentos": null,
+    "final": null
+   },
+   "risco": "ok",
+   "regimento": null
+  }
+ ]
+}

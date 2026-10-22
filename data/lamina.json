@@ -1,0 +1,293 @@
+{
+ "versao": 1,
+ "updated": "09/10/2026",
+ "isoUpdated": "2026-10-09",
+ "base": "100 em 30/06/2026",
+ "months": [
+  "JUL",
+  "AGO",
+  "SET",
+  "OUT"
+ ],
+ "navData": [
+  {
+   "date": "30/06",
+   "isoDate": "2026-06-30",
+   "utb": 100.0,
+   "ibov": 100.0,
+   "cdi": 100.0
+  },
+  {
+   "date": "03/07",
+   "isoDate": "2026-07-03",
+   "utb": 101.17,
+   "ibov": 101.3,
+   "cdi": 100.16
+  },
+  {
+   "date": "10/07",
+   "isoDate": "2026-07-10",
+   "utb": 103.91,
+   "ibov": 103.4,
+   "cdi": 100.42
+  },
+  {
+   "date": "17/07",
+   "isoDate": "2026-07-17",
+   "utb": 102.22,
+   "ibov": 100.98,
+   "cdi": 100.69
+  },
+  {
+   "date": "24/07",
+   "isoDate": "2026-07-24",
+   "utb": 102.05,
+   "ibov": 101.17,
+   "cdi": 100.95
+  },
+  {
+   "date": "31/07",
+   "isoDate": "2026-07-31",
+   "utb": 105.21,
+   "ibov": 103.47,
+   "cdi": 101.22
+  },
+  {
+   "date": "07/08",
+   "isoDate": "2026-08-07",
+   "utb": 101.51,
+   "ibov": 100.28,
+   "cdi": 101.48
+  },
+  {
+   "date": "14/08",
+   "isoDate": "2026-08-14",
+   "utb": 99.2,
+   "ibov": 97.04,
+   "cdi": 101.74
+  },
+  {
+   "date": "21/08",
+   "isoDate": "2026-08-21",
+   "utb": 100.25,
+   "ibov": 99.42,
+   "cdi": 102.01
+  },
+  {
+   "date": "28/08",
+   "isoDate": "2026-08-28",
+   "utb": 103.81,
+   "ibov": 102.12,
+   "cdi": 102.27
+  },
+  {
+   "date": "04/09",
+   "isoDate": "2026-09-04",
+   "utb": 110.73,
+   "ibov": 107.63,
+   "cdi": 102.53
+  },
+  {
+   "date": "11/09",
+   "isoDate": "2026-09-11",
+   "utb": 110.97,
+   "ibov": 108.83,
+   "cdi": 102.75
+  },
+  {
+   "date": "18/09",
+   "isoDate": "2026-09-18",
+   "utb": 111.57,
+   "ibov": 107.68,
+   "cdi": 103.01
+  },
+  {
+   "date": "25/09",
+   "isoDate": "2026-09-25",
+   "utb": 109.43,
+   "ibov": 106.66,
+   "cdi": 103.27
+  },
+  {
+   "date": "02/10",
+   "isoDate": "2026-10-02",
+   "utb": 113.63,
+   "ibov": 111.68,
+   "cdi": 103.53
+  },
+  {
+   "date": "09/10",
+   "isoDate": "2026-10-09",
+   "utb": 124.49,
+   "ibov": 121.53,
+   "cdi": 103.74
+  }
+ ],
+ "monthlyReturns": [
+  {
+   "year": 2026,
+   "values": [
+    5.21,
+    -0.14,
+    4.24,
+    13.67
+   ]
+  }
+ ],
+ "benchmarkMonthly": {
+  "ibov": [
+   3.47,
+   -0.33,
+   5.03,
+   12.2
+  ],
+  "cdi": [
+   1.22,
+   1.09,
+   1.08,
+   0.31
+  ]
+ },
+ "totals": {
+  "utb": 24.49,
+  "ibov": 21.53,
+  "cdi": 3.74
+ },
+ "performance": [
+  {
+   "label": "Mês (out até 09/10)",
+   "utb": 13.67,
+   "ibov": 12.2,
+   "cdi": 0.31
+  },
+  {
+   "label": "Desde 01/07",
+   "utb": 24.49,
+   "ibov": 21.53,
+   "cdi": 3.74
+  },
+  {
+   "label": "3 meses (09/07 a 09/10)",
+   "utb": 23.81,
+   "ibov": 21.03,
+   "cdi": 3.36
+  },
+  {
+   "label": "6 meses",
+   "utb": null,
+   "ibov": null,
+   "cdi": null
+  },
+  {
+   "label": "12 meses",
+   "utb": null,
+   "ibov": null,
+   "cdi": null
+  },
+  {
+   "label": "Desde o início (01/07)",
+   "utb": 24.49,
+   "ibov": 21.53,
+   "cdi": 3.74
+  }
+ ],
+ "returnVersions": [
+  {
+   "label": "UTB bruto",
+   "note": "com proventos, sem custos de negociação",
+   "value": 24.49
+  },
+  {
+   "label": "UTB antes do IR",
+   "note": "líquido de custos de negociação (impacto ~0,02 p.p.)",
+   "value": 24.47
+  },
+  {
+   "label": "UTB depois do IR (estimativa)",
+   "note": "IR estimado ~0,29 p.p.",
+   "value": 24.18,
+   "approx": true
+  },
+  {
+   "label": "Ibovespa",
+   "note": "referência",
+   "value": 21.53
+  },
+  {
+   "label": "CDI",
+   "note": "referência",
+   "value": 3.74
+  }
+ ],
+ "stats": [
+  {
+   "label": "Volatilidade anualizada",
+   "value": "22,3%",
+   "note": "Ibovespa: 22,1%"
+  },
+  {
+   "label": "Drawdown máximo",
+   "value": "−7,1%",
+   "note": "Ibovespa: −6,6%"
+  },
+  {
+   "label": "Taxa de acerto",
+   "value": "47%",
+   "note": "Desde julho · estimativa FIFO nas vendas"
+  },
+  {
+   "label": "Payoff",
+   "value": "1,61",
+   "note": "Ganho médio % / perda média % · estimativa FIFO"
+  },
+  {
+   "label": "Vendas desde julho",
+   "value": "9",
+   "note": "Vendas, não trades totais"
+  }
+ ],
+ "sectors": [
+  {
+   "name": "Financeiro",
+   "value": 31.7
+  },
+  {
+   "name": "Petróleo/combustíveis",
+   "value": 19.7
+  },
+  {
+   "name": "Bens industriais",
+   "value": 16.0
+  },
+  {
+   "name": "Tecnologia",
+   "value": 12.7
+  },
+  {
+   "name": "Materiais básicos",
+   "value": 7.3
+  },
+  {
+   "name": "Utilidades",
+   "value": 6.7
+  },
+  {
+   "name": "Consumo",
+   "value": 5.8
+  },
+  {
+   "name": "Educação",
+   "value": 0.1
+  }
+ ],
+ "tickerItems": [
+  "UTB antes IR +24,47%",
+  "UTB depois IR ~+24,18%",
+  "IBOV desde jul +21,53%",
+  "CDI desde jul +3,74%",
+  "OUT +13,67%",
+  "VOL 22,3%",
+  "MAX DD −7,1%",
+  "ACERTO 47% · PAYOFF 1,61"
+ ]
+}

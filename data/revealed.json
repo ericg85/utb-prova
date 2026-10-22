@@ -1,0 +1,44 @@
+{
+ "versao": 1,
+ "itens": [
+  {
+   "codigo": "UTB-2026-10-16-01",
+   "data_hora_brt": "2026-10-16 08:39",
+   "sha256": "699e55c5be3c388b1d1911928c963c6bff9c70e3f30448e7fbcada98cbf70a5c",
+   "status": "revelada",
+   "ticker": "WEGE3",
+   "lado": "VENDA_PARCIAL",
+   "preco_execucao": null,
+   "revelado_em": "2026-10-21 18:47",
+   "prova_url": "https://github.com/ericg85/utb-prova/blob/main/hashes/2026-10.csv",
+   "ots_url": "https://github.com/ericg85/utb-prova/blob/main/ots/UTB-2026-10-16-01.sha256.ots.b64",
+   "reveal_url": "https://github.com/ericg85/utb-prova/blob/main/reveal/UTB-2026-10-16-01.md"
+  },
+  {
+   "codigo": "UTB-2026-10-16-02",
+   "data_hora_brt": "2026-10-16 08:41",
+   "sha256": "c9b151978138bdd1d2e7c74c9a644088b73dd47428822a715269341e187f4c87",
+   "status": "revelada",
+   "ticker": "PRNR3",
+   "lado": "VENDA",
+   "preco_execucao": null,
+   "revelado_em": "2026-10-21 18:47",
+   "prova_url": "https://github.com/ericg85/utb-prova/blob/main/hashes/2026-10.csv",
+   "ots_url": "https://github.com/ericg85/utb-prova/blob/main/ots/UTB-2026-10-16-02.sha256.ots.b64",
+   "reveal_url": "https://github.com/ericg85/utb-prova/blob/main/reveal/UTB-2026-10-16-02.md"
+  },
+  {
+   "codigo": "UTB-2026-10-16-03",
+   "data_hora_brt": "2026-10-16 08:43",
+   "sha256": "0cc9647d8804d2703d24991b5aeab7ff71469d542c855f388aaf9dda11087849",
+   "status": "revelada",
+   "ticker": "INTB3",
+   "lado": "VENDA",
+   "preco_execucao": null,
+   "revelado_em": "2026-10-21 18:47",
+   "prova_url": "https://github.com/ericg85/utb-prova/blob/main/hashes/2026-10.csv",
+   "ots_url": "https://github.com/ericg85/utb-prova/blob/main/ots/UTB-2026-10-16-03.sha256.ots.b64",
+   "reveal_url": "https://github.com/ericg85/utb-prova/blob/main/reveal/UTB-2026-10-16-03.md"
+  }
+ ]
+}
