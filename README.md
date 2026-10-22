@@ -33,6 +33,16 @@ Sem um nó Bitcoin local, use `ots --no-bitcoin verify ...` para conferir o cami
 
 Se os hashes forem iguais, o arquivo não mudou nenhum caractere desde a publicação.
 
+## Dados do site (`data/`)
+
+O site UTB lê estes arquivos diretamente daqui. Se a leitura falhar, o site mostra a última versão embutida nele.
+
+* `data/lamina.json`: lâmina de resultados em % e base 100 (série, meses, estatísticas e setores). Atualizada no último dia útil de cada mês.
+* `data/comite.json`: decisões do comitê vindas do radar que terminaram sem entrada (NAO_COMPRAR e ESPERAR), com data, mercado, ticker, veredito, confiança e notas de 1 a 5. Cada decisão só aparece 2 pregões depois. Compras aparecem pela prova acima (hash no dia, revelação depois). Revisões de carteira não entram.
+* `data/revealed.json`: lista das operações carimbadas, com o hash e, depois da revelação, ticker e lado.
+
+Nenhum destes arquivos traz valores em dinheiro, quantidades, contas ou nome de corretora.
+
 ## Preço de execução
 
 O arquivo revelado é a decisão como ela foi carimbada, antes da execução. Por isso ele não traz o preço em que a ordem foi executada, e mudar o arquivo quebraria o hash. O preço de execução fica em `execucao/AAAA-MM.csv`, ligado pelo mesmo identificador. Esse arquivo é uma anotação posterior: não tem hash nem carimbo do OpenTimestamps.
