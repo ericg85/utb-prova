@@ -1,10 +1,122 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-22",
+ "gerado_em": "2026-10-23",
  "atraso_pregoes": 2,
  "inclui_compras": false,
  "regra": "Decisoes do radar sem entrada (NAO_COMPRAR e ESPERAR), publicadas depois do atraso. Compras aparecem pela prova publica. Revisoes de carteira ficam de fora.",
  "itens": [
+  {
+   "data": "2026-10-21",
+   "publicado_em": "2026-10-23",
+   "mercado": "EUA",
+   "ticker": "UCB",
+   "veredito": "ESPERAR",
+   "confianca": 3,
+   "notas": {
+    "tecnico": 4.0,
+    "noticias": 2.0,
+    "fundamentos": 4.0,
+    "final": 3.4
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-10-21",
+   "publicado_em": "2026-10-23",
+   "mercado": "EUA",
+   "ticker": "TREX",
+   "veredito": "ESPERAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 4.0,
+    "noticias": 4.0,
+    "fundamentos": 3.0,
+    "final": 3.8
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-10-21",
+   "publicado_em": "2026-10-23",
+   "mercado": "EUA",
+   "ticker": "CNK",
+   "veredito": "ESPERAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 3.0,
+    "noticias": 2.0,
+    "fundamentos": 3.0,
+    "final": 3.2
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-10-21",
+   "publicado_em": "2026-10-23",
+   "mercado": "B3",
+   "ticker": "VTRU3",
+   "veredito": "NAO_COMPRAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 2.0,
+    "noticias": 3.0,
+    "fundamentos": 3.0,
+    "final": 2.0
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-10-21",
+   "publicado_em": "2026-10-23",
+   "mercado": "B3",
+   "ticker": "MYPK3",
+   "veredito": "NAO_COMPRAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 2.0,
+    "noticias": 2.0,
+    "fundamentos": 3.0,
+    "final": 2.2
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-10-21",
+   "publicado_em": "2026-10-23",
+   "mercado": "B3",
+   "ticker": "FRAS3",
+   "veredito": "NAO_COMPRAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 1.0,
+    "noticias": 4.0,
+    "fundamentos": 3.0,
+    "final": 2.3
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-10-21",
+   "publicado_em": "2026-10-23",
+   "mercado": "B3",
+   "ticker": "FLRY3",
+   "veredito": "NAO_COMPRAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 2.0,
+    "noticias": 3.0,
+    "fundamentos": 3.0,
+    "final": 2.0
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
   {
    "data": "2026-10-20",
    "publicado_em": "2026-10-22",
