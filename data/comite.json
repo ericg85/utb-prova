@@ -1,10 +1,90 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-26",
+ "gerado_em": "2026-10-27",
  "atraso_pregoes": 2,
  "inclui_compras": false,
  "regra": "Decisoes do radar sem entrada (NAO_COMPRAR e ESPERAR), publicadas depois do atraso. Compras aparecem pela prova publica. Revisoes de carteira ficam de fora.",
  "itens": [
+  {
+   "data": "2026-10-23",
+   "publicado_em": "2026-10-27",
+   "mercado": "EUA",
+   "ticker": "VLY",
+   "veredito": "ESPERAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 2.0,
+    "noticias": 5.0,
+    "fundamentos": 4.0,
+    "final": 3.3
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-10-23",
+   "publicado_em": "2026-10-27",
+   "mercado": "EUA",
+   "ticker": "UNP",
+   "veredito": "ESPERAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 2.0,
+    "noticias": 5.0,
+    "fundamentos": 4.0,
+    "final": 3.3
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-10-23",
+   "publicado_em": "2026-10-27",
+   "mercado": "EUA",
+   "ticker": "NSC",
+   "veredito": "NAO_COMPRAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 2.0,
+    "noticias": 4.0,
+    "fundamentos": 3.0,
+    "final": 2.8
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-10-23",
+   "publicado_em": "2026-10-27",
+   "mercado": "EUA",
+   "ticker": "CVBF",
+   "veredito": "ESPERAR",
+   "confianca": 3,
+   "notas": {
+    "tecnico": 4.0,
+    "noticias": 4.0,
+    "fundamentos": 3.0,
+    "final": 3.8
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-10-23",
+   "publicado_em": "2026-10-27",
+   "mercado": "EUA",
+   "ticker": "AUB",
+   "veredito": "ESPERAR",
+   "confianca": 3,
+   "notas": {
+    "tecnico": 4.0,
+    "noticias": 2.0,
+    "fundamentos": 4.0,
+    "final": 3.4
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
   {
    "data": "2026-10-21",
    "publicado_em": "2026-10-23",
