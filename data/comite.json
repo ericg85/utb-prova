@@ -1,10 +1,42 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-28",
+ "gerado_em": "2026-10-29",
  "atraso_pregoes": 2,
  "inclui_compras": false,
  "regra": "Decisoes do radar sem entrada (NAO_COMPRAR e ESPERAR), publicadas depois do atraso. Compras aparecem pela prova publica. Revisoes de carteira ficam de fora.",
  "itens": [
+  {
+   "data": "2026-10-27",
+   "publicado_em": "2026-10-29",
+   "mercado": "EUA",
+   "ticker": "FULT",
+   "veredito": "ESPERAR",
+   "confianca": 3,
+   "notas": {
+    "tecnico": 2.0,
+    "noticias": 3.0,
+    "fundamentos": 4.0,
+    "final": 3.2
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-10-27",
+   "publicado_em": "2026-10-29",
+   "mercado": "EUA",
+   "ticker": "ASB",
+   "veredito": "ESPERAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 3.0,
+    "noticias": 4.0,
+    "fundamentos": 4.0,
+    "final": 3.0
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
   {
    "data": "2026-10-26",
    "publicado_em": "2026-10-28",
