@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-10-29",
+ "gerado_em": "2026-10-30",
  "atraso_pregoes": 2,
  "inclui_compras": false,
  "regra": "Decisoes do radar sem entrada (NAO_COMPRAR e ESPERAR), publicadas depois do atraso. Compras aparecem pela prova publica. Revisoes de carteira ficam de fora.",
