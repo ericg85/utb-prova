@@ -135,14 +135,14 @@
    "codigo": "UTB-2026-11-03-01",
    "data_hora_brt": "2026-11-03 11:30",
    "sha256": "f4ee196a479d591f3c08c61a2b2abe242cc1ba223772e306cc47c947b5cfefef",
-   "status": "aguardando",
-   "ticker": null,
-   "lado": null,
-   "preco_execucao": null,
+   "status": "revelada",
+   "ticker": "MO",
+   "lado": "COMPRA",
+   "preco_execucao": 76.48,
    "revelado_em": null,
    "prova_url": "https://github.com/ericg85/utb-prova/blob/main/hashes/2026-11.csv",
    "ots_url": "https://github.com/ericg85/utb-prova/blob/main/ots/UTB-2026-11-03-01.sha256.ots.b64",
-   "reveal_url": null
+   "reveal_url": "https://github.com/ericg85/utb-prova/blob/main/reveal/UTB-2026-11-03-01.md"
   },
   {
    "codigo": "UTB-2026-11-04-01",
@@ -168,6 +168,19 @@
    "revelado_em": null,
    "prova_url": "https://github.com/ericg85/utb-prova/blob/main/hashes/2026-11.csv",
    "ots_url": "https://github.com/ericg85/utb-prova/blob/main/ots/UTB-2026-11-04-02.sha256.ots.b64",
+   "reveal_url": null
+  },
+  {
+   "codigo": "UTB-2026-11-05-01",
+   "data_hora_brt": "2026-11-05 14:42",
+   "sha256": "349dfe0efcecc0a68074977128cf516b92c6cb04f1b152f0436335af94ef4e0c",
+   "status": "aguardando",
+   "ticker": null,
+   "lado": null,
+   "preco_execucao": null,
+   "revelado_em": null,
+   "prova_url": "https://github.com/ericg85/utb-prova/blob/main/hashes/2026-11.csv",
+   "ots_url": "https://github.com/ericg85/utb-prova/blob/main/ots/UTB-2026-11-05-01.sha256.ots.b64",
    "reveal_url": null
   }
  ]
