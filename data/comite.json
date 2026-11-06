@@ -1,10 +1,218 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-05",
+ "gerado_em": "2026-11-06",
  "atraso_pregoes": 2,
  "inclui_compras": false,
  "regra": "Decisoes do radar sem entrada (NAO_COMPRAR e ESPERAR), publicadas depois do atraso. Compras aparecem pela prova publica. Revisoes de carteira ficam de fora.",
  "itens": [
+  {
+   "data": "2026-11-04",
+   "publicado_em": "2026-11-06",
+   "mercado": "EUA",
+   "ticker": "WELL",
+   "veredito": "ESPERAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 3.0,
+    "noticias": 4.0,
+    "fundamentos": 2.0,
+    "final": 3.1
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-11-04",
+   "publicado_em": "2026-11-06",
+   "mercado": "EUA",
+   "ticker": "SW",
+   "veredito": "ESPERAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 3.0,
+    "noticias": 3.0,
+    "fundamentos": 2.0,
+    "final": 3.3
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-11-04",
+   "publicado_em": "2026-11-06",
+   "mercado": "EUA",
+   "ticker": "OSCR",
+   "veredito": "ESPERAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 3.0,
+    "noticias": 4.0,
+    "fundamentos": 3.0,
+    "final": 3.3
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-11-04",
+   "publicado_em": "2026-11-06",
+   "mercado": "EUA",
+   "ticker": "LYV",
+   "veredito": "ESPERAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 3.0,
+    "noticias": 4.0,
+    "fundamentos": 3.0,
+    "final": 3.3
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-11-04",
+   "publicado_em": "2026-11-06",
+   "mercado": "EUA",
+   "ticker": "JHX",
+   "veredito": "NAO_COMPRAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 2.0,
+    "noticias": 4.0,
+    "fundamentos": 3.0,
+    "final": 2.8
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-11-04",
+   "publicado_em": "2026-11-06",
+   "mercado": "EUA",
+   "ticker": "HSIC",
+   "veredito": "ESPERAR",
+   "confianca": 3,
+   "notas": {
+    "tecnico": 4.0,
+    "noticias": 4.0,
+    "fundamentos": 3.0,
+    "final": 3.8
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-11-04",
+   "publicado_em": "2026-11-06",
+   "mercado": "EUA",
+   "ticker": "FULT",
+   "veredito": "ESPERAR",
+   "confianca": 3,
+   "notas": {
+    "tecnico": 4.0,
+    "noticias": 2.0,
+    "fundamentos": 4.0,
+    "final": 3.4
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-11-04",
+   "publicado_em": "2026-11-06",
+   "mercado": "EUA",
+   "ticker": "FIBK",
+   "veredito": "ESPERAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 2.0,
+    "noticias": 4.0,
+    "fundamentos": 3.0,
+    "final": 3.3
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-11-04",
+   "publicado_em": "2026-11-06",
+   "mercado": "EUA",
+   "ticker": "DOC",
+   "veredito": "NAO_COMPRAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 2.0,
+    "noticias": 4.0,
+    "fundamentos": 2.0,
+    "final": 2.1
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-11-04",
+   "publicado_em": "2026-11-06",
+   "mercado": "EUA",
+   "ticker": "CUZ",
+   "veredito": "ESPERAR",
+   "confianca": 3,
+   "notas": {
+    "tecnico": 4.0,
+    "noticias": 4.0,
+    "fundamentos": 2.0,
+    "final": 3.1
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-11-04",
+   "publicado_em": "2026-11-06",
+   "mercado": "EUA",
+   "ticker": "COLD",
+   "veredito": "ESPERAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 4.0,
+    "noticias": 4.0,
+    "fundamentos": 2.0,
+    "final": 3.6
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-11-04",
+   "publicado_em": "2026-11-06",
+   "mercado": "EUA",
+   "ticker": "BRKR",
+   "veredito": "NAO_COMPRAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 2.0,
+    "noticias": 4.0,
+    "fundamentos": 2.0,
+    "final": 2.6
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
+  {
+   "data": "2026-11-04",
+   "publicado_em": "2026-11-06",
+   "mercado": "EUA",
+   "ticker": "ASH",
+   "veredito": "ESPERAR",
+   "confianca": 4,
+   "notas": {
+    "tecnico": 4.0,
+    "noticias": 4.0,
+    "fundamentos": 2.0,
+    "final": 3.6
+   },
+   "risco": "ok",
+   "regimento": "v1.3"
+  },
   {
    "data": "2026-10-30",
    "publicado_em": "2026-11-03",
